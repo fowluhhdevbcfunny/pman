@@ -1,3 +1,3 @@
 # PMan
 
-Package manager for FowlKern.
+Package manager database for FowlKern.
